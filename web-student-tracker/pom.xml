@@ -3,7 +3,8 @@
   <groupId>web-student-tracker</groupId>
   <artifactId>web-student-tracker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
+ <!-- <packaging>war</packaging> --> 
   <name>student-tracker</name>
   
   
